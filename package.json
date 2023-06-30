@@ -1,0 +1,10 @@
+{
+  "name": "js-sessioncache",
+  "version": "0.0.1",
+  "description": "js-sessioncache - store key-value pairs in the browser's local storage",
+  "main": "index.js",
+  "author": {
+    "name": "Nnamdi Michael Okpala"
+  },
+  "license": "MIT"
+}
